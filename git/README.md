@@ -14,8 +14,8 @@ $ LANG=C git status
 On branch fix-hoge
 Your branch is up to date with 'origin/fix-hoge.
 
-nothing to commit, working tree clean$
-git pull --squash origin/master
+nothing to commit, working tree clean
+$ git pull --squash origin/master
 ```
 
 commitオブジェクトは新しく作りなおされることに注意。
